@@ -13,7 +13,7 @@
 - Native PHP
 * MySQL
 + CSS
-+Bootstrap
++ Bootstrap
 
 
 
