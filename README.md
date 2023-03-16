@@ -1,14 +1,14 @@
 # Product-Page-using-PHP-and-MySQL
 
-#Description 
-## this is simple products page for glasses using php to view and buy product 
+## Description 
+### This is simple products page for glasses using php to view and buy product 
 
-#features
+## features
 
 - Pagination
 * Search by product name
 
-#Technologies
+## Technologies
 
 - Native PHP
 * MySQL
