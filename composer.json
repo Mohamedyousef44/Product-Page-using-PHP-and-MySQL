@@ -1,0 +1,11 @@
+
+{
+    "require" : {
+
+    },
+    "autoload" : {
+
+        "files" : ["config.php"],
+        "classmap" : ["model"]
+    }
+}
